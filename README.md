@@ -7,3 +7,4 @@
 - Git: 2.55.0.windows.5 (D:\agent\git)
 - VS Code: 1.136.1 (D:\agent\vscode)
 - Codex CLI: 0.152.1 + DeepSeek (D:\agent\codex)
+- 提交工作流: codex-commit.cmd (Codex 总结 diff 后自动提交)
